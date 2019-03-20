@@ -12,8 +12,8 @@ Question 1:
   Part 2: 
    i)  Run this command python Q1.py -p shape_predictor_68_face_landmarks.dat
   ii)  It will calculate all the keypoints coordinates and save it into two .npy files which are image_train.npy and landmark.npy.
- iii)  image_train.npy contains all the images and landmark.npy contains 8 facial keypoints.
-  iv)  This 8 points are x and y coordinates of chin,left eye,right eye and forehead.
+ iii)  image_train.npy contains all the images and landmark.npy contains 4 facial keypoints.
+  iv)  This 4 points are x and y coordinates of chin,left eye,right eye and forehead in landmark.npy file.
   
   Part 3:
    i)  Run every cell of Face_landmark.ipynb
