@@ -37,3 +37,5 @@ Question 2:
       https://drive.google.com/open?id=1RiHjIumKhQGAXW7EA8qNd1A9FtoNcYm1
    4) Link for image_train.npy :
       https://drive.google.com/open?id=1Yffp_zFq9k54K2tAe8SWpfbatxD5P1lg
+   5) Link for models folder:
+      https://drive.google.com/open?id=1K4PxY0phf21_JIl2EPmc-T7iYyNvOpY7
