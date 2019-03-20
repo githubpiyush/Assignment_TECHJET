@@ -27,3 +27,13 @@ Question 2:
   iii) I have generalize this question so whenever you press 'p' it will point the green ball(object) by an arrow for five second.
    iv)  You can quit by pressing 'q'. 
    Note : Download video file from this link https://www.dropbox.com/s/mykm9l29uz155tr/object_tracking_example.mp4?dl=1
+   
+   Important Links:
+   1) Link for input folder:
+      https://drive.google.com/open?id=1xoVd07qw1yZFgOYI2IPPA6rosbkTIM69 
+   2) Link for input_data folder:
+      https://drive.google.com/open?id=1BAShvf8axgai2T5sCahq7ZTNBOuT_pw4
+   3) Link for shape_predictor_68_face_landmarks.dat file: 
+      https://drive.google.com/open?id=1RiHjIumKhQGAXW7EA8qNd1A9FtoNcYm1
+   4) Link for image_train.npy :
+      https://drive.google.com/open?id=1Yffp_zFq9k54K2tAe8SWpfbatxD5P1lg
